@@ -33,7 +33,7 @@ body {
 }
 
 body {
-  background-image: url(https://d2ry9vue95px0b.cloudfront.net/epro/campaign/income-protection/bgc.jpeg);
+  background-image: url('../public/bgc.jpeg');
   background-size: cover;
   background-position: bottom;
 }
