@@ -32,11 +32,11 @@ body {
   }
 }
 
-main {
+/* main {
   background-image: url('../public/bgc.jpeg');
   background-size: cover;
   background-position: bottom;
-}
+} */
 
 .radio-item {
   width: 48%;
